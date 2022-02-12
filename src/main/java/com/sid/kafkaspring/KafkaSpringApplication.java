@@ -8,6 +8,7 @@ import org.springframework.kafka.annotation.EnableKafka;
 
 import java.util.function.Consumer;
 
+
 @SpringBootApplication
 @EnableKafka
 public class KafkaSpringApplication {
